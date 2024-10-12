@@ -1,6 +1,6 @@
 settings:
   title: 'CF Worker Status Page'
-  url: 'https://cf-workers-status-page-production.aiovin.workers.dev/' # used for Slack messages
+  url: 'https://cf-workers-status-page-production.aiovin.workers.dev/'
   logo: logo-192x192.png # image in ./public/ folder
   daysInHistogram: 30 # number of days you want to display in histogram
 
