@@ -22,12 +22,3 @@ monitors:
     expectStatus: 200
     followRedirect: true
     linkable: false
-    
-  - id: lumenus
-    name: Lumenus
-    description: ''
-    url: 'http://[2a05:4140:19:12::725d:fbdf]/'
-    method: GET
-    expectStatus: 200
-    followRedirect: true
-    linkable: false
