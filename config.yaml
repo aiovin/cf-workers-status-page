@@ -26,7 +26,7 @@ monitors:
   - id: lumenus
     name: Lumenus
     description: ''
-    url: 'http://[2a05:4140:19:12::725d:fbdf]'
+    url: 'http://[2a05:4140:19:12::725d:fbdf]/'
     method: GET
     expectStatus: 200
     followRedirect: true
