@@ -22,8 +22,7 @@ monitors:
     expectStatus: 200
     followRedirect: true
     linkable: false
-
-monitors:
+    
   - id: lumenus
     name: Lumenus
     description: ''
